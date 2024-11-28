@@ -1,3 +1,6 @@
+'''
+It's a joke. Get it? 'Enter' your name?
+'''
 name,c,num='',0,0
 while name!='your name':
     name=input('Enter your name:\n')
