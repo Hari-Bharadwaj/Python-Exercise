@@ -1,5 +1,5 @@
 '''
-It's a joke. Get it? 'Enter' your name?
+It's a joke. Get it? 'Enter' your name? Well, unless you get the joke the loop continues.
 '''
 name,c,num='',0,0
 while name!='your name':
